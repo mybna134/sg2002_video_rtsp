@@ -1,0 +1,7 @@
+/.sdk/
+/.tools/
+/build/
+/third_party/live555/
+/third_party/cvi_rtsp/
+/.xmake/
+
